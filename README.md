@@ -37,6 +37,6 @@ Part 2 of the Crowdfunding App expands functionality to include a web interface 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Web-Dev-2-Funding-Website.git
+   git clone git@github.com:Sharanbabu1/Web-Dev-2-Funding-Website.git
    cd Web-Dev-2-Funding-Website
 
