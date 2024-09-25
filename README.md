@@ -33,7 +33,7 @@ Part 2 of the Crowdfunding App expands functionality to include a web interface 
 - **Database**: MySQL
 - **API**: RESTful API for fetching and managing fundraiser data
 
-## Installation
+
 
 1. **Clone the repository**:
    ```bash
